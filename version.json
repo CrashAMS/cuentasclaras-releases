@@ -1,6 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v1.0.0/cuentasclaras-1.0.0.zip",
-  "sha256": "26AD976B1F0278622E15E71A667615B9A32B10C76091238D211B27FD2C0232C1",
-  "changelog": "Versión inicial de Cuentas Claras"
+  "version": "2.1.0",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.1.0/CuentasClaras-v2.1.0.zip",
+  "sha256": "556b705ef5acdbe410b2676116f23ee8f7d0232b656848429f086e7a7c48463b"
 }
