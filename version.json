@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0.5",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.0.5/CuentasClaras-v2.2.0.5.zip",
-  "sha256": "ab0d7a17365d52c01c37aa901b9f55a2295669319701c338134faf911ea0b49b",
-  "changelog": "Fix: combo no muestra campos de categoria y unidad. Fix: gastos categoria no se cortaba. Analisis: ticket usual muestra la mediana en lugar del promedio."
+  "version": "2.2.0.6",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.0.6/CuentasClaras-v2.2.0.6.zip",
+  "sha256": "d29f3a9d087f623d60ae9d1f1836f0f8439a17a0971a9d6029f73c7b618274bc",
+  "changelog": "Fix: texto cortado en selects de gastos. Fix: ticket stuck en historial ahora ordena por fecha de registro. Fix: combo no muestra campos de categoria y unidad. Analisis: top productos por unidades vendidas."
 }
