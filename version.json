@@ -1,5 +1,5 @@
 {
-  "version": "v2.2.0.4",
+  "version": "v2.2.0.5",
   "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.0.1/CuentasClaras-v2.2.0.1.zip",
   "sha256": "b4b0f48135f939069d98c8a42941e20dec905b84b4de9f9ac7705505f86a73bb",
   "changelog": "Fix: badge suscripcion siempre mostraba Vencida. Fix: version en tab Configuracion ahora muestra la version real."
