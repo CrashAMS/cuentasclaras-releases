@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1.0",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.1.0/CuentasClaras-v2.2.1.0.zip",
-  "sha256": "f9b8fe75b876fdd737d9a1b9d0fd91733684a4d881d73f4b48ca1cecdb110927",
-  "changelog": "Indicador de actualización en barra inferior. La app ya no se reabre sola al actualizar."
+  "version": "2.2.1.1",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.1.1/CuentasClaras-v2.2.1.1.zip",
+  "sha256": "f814e9f59b4b4b73411804de8f6f7e942cf3fc95db8c507ca347bdc034e56cbd",
+  "changelog": "Fix: presupuestos, notas, flujo de caja y análisis ahora son individuales por negocio."
 }
