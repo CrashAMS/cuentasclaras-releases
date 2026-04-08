@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0.9",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.0.9/CuentasClaras-v2.2.0.9.zip",
-  "sha256": "3a9877b7267928685e95914846057ac2edfa958e613498fe485a243f90916ed1",
-  "changelog": "Fix: datos separados por negocio. Fix: proceso cierra al cerrar el browser. Nuevo: eliminar productos del catálogo. Fix: label precio producto/combo."
+  "version": "2.2.1.0",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.1.0/CuentasClaras-v2.2.1.0.zip",
+  "sha256": "f9b8fe75b876fdd737d9a1b9d0fd91733684a4d881d73f4b48ca1cecdb110927",
+  "changelog": "Indicador de actualización en barra inferior. La app ya no se reabre sola al actualizar."
 }
