@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0.8",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.0.8/CuentasClaras-v2.2.0.8.zip",
-  "sha256": "6d185740d8aaa597115d0c3a11d9629ca83ce6e0799268ae69ddee3715ed30c4",
-  "changelog": "Fix: auto-update no copiaba templates ni CSS. Fix: productos compartidos entre negocios. Fix: proceso no cerraba al cerrar el browser."
+  "version": "2.2.0.9",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.0.9/CuentasClaras-v2.2.0.9.zip",
+  "sha256": "3a9877b7267928685e95914846057ac2edfa958e613498fe485a243f90916ed1",
+  "changelog": "Fix: datos separados por negocio. Fix: proceso cierra al cerrar el browser. Nuevo: eliminar productos del catálogo. Fix: label precio producto/combo."
 }
