@@ -1,6 +1,7 @@
 {
-  "version": "2.2.1.1",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.2.1.1/CuentasClaras-v2.2.1.1.zip",
-  "sha256": "f814e9f59b4b4b73411804de8f6f7e942cf3fc95db8c507ca347bdc034e56cbd",
-  "changelog": "Fix: presupuestos, notas, flujo de caja y análisis ahora son individuales por negocio."
+  "version": "2.3.0",
+  "nombre": "The Stock Update",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.0/CuentasClaras-v2.3.0.zip",
+  "sha256": "c5a98a363867bf180e960fa4249cc380cc3b48f65f60f87db9203c5726d06134",
+  "notas": "Sistema de stock completo, nuevos tipos de negocio, receta en nuevo producto, gastos vinculados a insumos."
 }
