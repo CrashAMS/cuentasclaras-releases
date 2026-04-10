@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "nombre": "The Stock Update",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.0/CuentasClaras-v2.3.0.zip",
-  "sha256": "c5a98a363867bf180e960fa4249cc380cc3b48f65f60f87db9203c5726d06134",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.1/CuentasClaras-v2.3.1.zip",
+  "sha256": "f2f0082bc3ef3baf9067aedfd63796e1928b789dd3eb7c1788a1b2fd95fb787c",
   "notas": "Sistema de stock completo, nuevos tipos de negocio, receta en nuevo producto, gastos vinculados a insumos."
 }
