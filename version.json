@@ -1,7 +1,7 @@
 {
-  "version": "2.3.2",
-  "nombre": "Stability and Finance Fixes",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.2/CuentasClaras-v2.3.2.zip",
-  "sha256": "bb3ee296622caca6f85f5e18499ed1b105a72ad12cc3bfecda2032482ca104e5",
-  "notas": "Correcciones de fechas locales, alta de insumos más robusta, historial con orden consistente, empty states reales en presupuesto y flujo de caja, y fix de negocio_id en la descarga inicial."
+  "version": "2.3.3",
+  "nombre": "Export Update",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.3/cuentasclaras-2.3.3.zip",
+  "sha256": "7d93a4a2f935790dfe0df49996261e32aaa96f3bd517511f0efa9a380a707f39",
+  "notas": "Exportación de ventas mejorada con datos completos para migración."
 }
