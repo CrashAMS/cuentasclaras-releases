@@ -1,7 +1,7 @@
 {
-  "version": "2.3.3",
-  "nombre": "Export Update",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.3/cuentasclaras-2.3.3.zip",
-  "sha256": "7d93a4a2f935790dfe0df49996261e32aaa96f3bd517511f0efa9a380a707f39",
-  "notas": "Exportación de ventas mejorada con datos completos para migración."
+  "version": "2.3.4",
+  "nombre": "Updater Fix",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.4/cuentasclaras-2.3.4.zip",
+  "sha256": "aab0d752e7f49622743f7ab9a99efdb83540b10080b0a13f71454588da265a94",
+  "notas": "Nuevo flujo de actualización con notificación y control del usuario. Fix robocopy."
 }
