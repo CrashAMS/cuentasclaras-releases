@@ -1,6 +1,6 @@
 {
   "version": "2.3.5",
   "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.5/cuentasclaras-2.3.5.zip",
-  "sha256": "91e18052ac664ce39b38c6a29a2a9bb527ddb572ff668885ef0f7652cb65dd57",
+  "sha256": "bdca4c3a7d4b05a0885ab6916bdf72603495564520a0f5d9b0392571b839b05d",
   "changelog": "- Schema normalizado ticket_items (una fila por producto vendido)\n- QR como método de pago\n- SKU automático en productos\n- Fix limpieza de datos al cambiar de negocio"
 }
