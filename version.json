@@ -1,6 +1,7 @@
 {
-  "version": "2.3.5",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.3.5/cuentasclaras-2.3.5.zip",
-  "sha256": "bdca4c3a7d4b05a0885ab6916bdf72603495564520a0f5d9b0392571b839b05d",
-  "changelog": "- Schema normalizado ticket_items (una fila por producto vendido)\n- QR como método de pago\n- SKU automático en productos\n- Fix limpieza de datos al cambiar de negocio"
+  "version": "2.4.1.1",
+  "nombre": "Carga unificada de insumos",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.1.1/cuentasclaras-2.4.1.1.zip",
+  "sha256": "fbdadbd72ce0e16c9f4e70c7fe0fd62e4fe04ee0e16084499642f98578368bab",
+  "notas": "Nueva hoja DATOS para cargar insumos y proveedores desde Excel. Fix concurrencia SQLite (WAL mode). Fix sincronización Firestore (updateMask)."
 }
