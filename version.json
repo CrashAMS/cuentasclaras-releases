@@ -1,7 +1,7 @@
 {
-  "version": "2.4.1.1",
-  "nombre": "Carga unificada de insumos",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.1.1/cuentasclaras-2.4.1.1.zip",
-  "sha256": "fbdadbd72ce0e16c9f4e70c7fe0fd62e4fe04ee0e16084499642f98578368bab",
-  "notas": "Nueva hoja DATOS para cargar insumos y proveedores desde Excel. Fix concurrencia SQLite (WAL mode). Fix sincronización Firestore (updateMask)."
+  "version": "2.4.2",
+  "nombre": "Excel pre-poblado",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.2/cuentasclaras-2.4.2.zip",
+  "sha256": "1df2c58e51fda2dcb3c5517302ec47a5bf1a04fec1a259010f6ec10057bdb5d2",
+  "notas": "La plantilla Excel de Stock ahora se descarga pre-poblada con los insumos del negocio. Al recargar el archivo, actualiza stock, precio y categoría de insumos existentes."
 }
