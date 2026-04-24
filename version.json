@@ -1,7 +1,7 @@
 {
-  "version": "2.4.2",
-  "nombre": "Excel pre-poblado",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.2/cuentasclaras-2.4.2.zip",
-  "sha256": "1df2c58e51fda2dcb3c5517302ec47a5bf1a04fec1a259010f6ec10057bdb5d2",
-  "notas": "La plantilla Excel de Stock ahora se descarga pre-poblada con los insumos del negocio. Al recargar el archivo, actualiza stock, precio y categoría de insumos existentes."
+  "version": "2.4.3.1",
+  "nombre": "Exportación única para contador",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.3.1/cuentasclaras-2.4.3.1.zip",
+  "sha256": "b077a7aa6044cfc0af81729ea831fd1ee8af54f270ba7bea2201de197cab46f6",
+  "notas": "El export Excel ahora genera una única hoja CONTADOR cronológica con ingresos y gastos unificados, lista para entregar al contador. Se actualizó el link de soporte a WhatsApp."
 }
