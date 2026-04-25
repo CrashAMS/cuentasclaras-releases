@@ -1,6 +1,6 @@
 {
   "version": "2.4.3.1",
   "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.3.1/CuentasClaras-v2.4.3.1.zip",
-  "sha256": "9bb020c113c45704d3789570e0dd1bf18c8dd730c69c1371fe08095f93a15eb2",
+  "sha256": "650e1a58b2d5ad12e05b774c95f788b6d1ba583187c20fa019f0a969a10cb9a8",
   "notas": "chore: ignorar directorio Diseño/ (mockups no implementados)"
 }
