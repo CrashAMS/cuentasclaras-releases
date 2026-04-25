@@ -1,7 +1,7 @@
 {
   "version": "2.4.3.1",
   "nombre": "Exportación única para contador",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.3.1/cuentasclaras-2.4.3.1.zip",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.3.1/CuentasClaras-v2.4.3.1.zip",
   "sha256": "b077a7aa6044cfc0af81729ea831fd1ee8af54f270ba7bea2201de197cab46f6",
   "notas": "El export Excel ahora genera una única hoja CONTADOR cronológica con ingresos y gastos unificados, lista para entregar al contador. Se actualizó el link de soporte a WhatsApp."
 }
