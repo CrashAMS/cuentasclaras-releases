@@ -1,6 +1,6 @@
 {
-  "version": "2.4.3.1",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.3.1/CuentasClaras-v2.4.3.1.zip",
-  "sha256": "650e1a58b2d5ad12e05b774c95f788b6d1ba583187c20fa019f0a969a10cb9a8",
-  "notas": "chore: ignorar directorio Diseño/ (mockups no implementados)"
+  "version": "2.4.5",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.5/CuentasClaras-v2.4.5.zip",
+  "sha256": "50d2f4ab4be5d7ad0edcb5dd48c338fa6e5e35d9dff0d6d86a352593aff5bde6",
+  "notas": "Merge branch '2.4.5' — release v2.4.5\n\nAnálisis 2.0 completo (Commits 1.1 → 5.1) + refactor de la pestaña Gastos\n(C1-C7 + audit follow-up). Detalle por feature en CHANGELOG_AI.md y\nGUIA_TECNICA_CUENTAS_CLARAS.md.\n\nHighlights del refactor de Gastos:\n- Nueva taxonomía de categorías con fuente única de verdad (categorias.py).\n- Selector plano único en Gasto simple, fecha editable.\n- Insumos llevan su propia categoría de gasto (default editable, sync bidireccional).\n- Compra a proveedor: endpoint atómico /api/compras (1 fila gastos + N stock_movimientos\n  con compra_id compartido), filtro estricto de productos por proveedor, auto-precio\n  específico, escape hatch inline.\n- Reportes y presupuestos con JOIN para categorizar líneas de compra por insumo.\n- Eliminación de compra cascadea: revierte saldos + soft-delete del gasto + flag\n  REVERSADO en movimientos. Sync queue completa para los 3 elementos.\n- Historial expandible por compra."
 }
