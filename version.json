@@ -1,6 +1,6 @@
 {
-  "version": "2.4.6-rc2",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.6-rc2/CuentasClaras-v2.4.6-rc2.zip",
-  "sha256": "a34575b83f6fb3ddc4319ad8a99a026c9ab534b03253f1f7534deb5b377c2b7f",
-  "notas": "Release candidate 2 â€” fix release notes (bug detectado en rc1)\nCambio unico vs rc1:\n- Workflow lee la anotacion del tag con 'git cat-file' en vez de\n  'git tag -l --format=%(contents)' (que caia al commit message\n  cuando actions/checkout traia el tag como lightweight).\nValidar:\n- En el version.json publicado, el campo 'notas' debe contener ESTE\n  texto (no el ultimo commit message).\n- Layout del ZIP debe seguir igual: CuentasClaras.exe + _internal/."
+  "version": "2.4.6-rc3",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.6-rc3/CuentasClaras-v2.4.6-rc3.zip",
+  "sha256": "f1cd43688e5d4d5d587a7f7e52729791a407730de769aecf63f295f4f53ced59",
+  "notas": "Release candidate 3 — fix encoding utf-8 en release notes (em dash mojibake en rc2)\nCambios vs rc2:\n- Python lee release_notes.txt con encoding='utf-8' explicito\n  (windows-latest tiene locale cp1252 por default, corrompia el em dash).\nValidar:\n- En version.json el campo 'notas' debe contener este mensaje SIN\n  mojibake. El '—' debe verse como tal."
 }
