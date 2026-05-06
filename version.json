@@ -1,6 +1,6 @@
 {
-  "version": "2.4.6-rc3",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.6-rc3/CuentasClaras-v2.4.6-rc3.zip",
-  "sha256": "f1cd43688e5d4d5d587a7f7e52729791a407730de769aecf63f295f4f53ced59",
-  "notas": "Release candidate 3 — fix encoding utf-8 en release notes (em dash mojibake en rc2)\nCambios vs rc2:\n- Python lee release_notes.txt con encoding='utf-8' explicito\n  (windows-latest tiene locale cp1252 por default, corrompia el em dash).\nValidar:\n- En version.json el campo 'notas' debe contener este mensaje SIN\n  mojibake. El '—' debe verse como tal."
+  "version": "2.4.6",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.6/CuentasClaras-v2.4.6.zip",
+  "sha256": "3f4aaed3a108769d28c9674d4ce0ffc800e66c4cfef00bab1759bef2764cc8cd",
+  "notas": "Release 2.4.6 — overhaul auto-update + fixes audit Opus\nResuelve los 13 hallazgos H1-H13 del audit pre-fix.\nCausa raíz fixeada: el ZIP del release ahora contiene CuentasClaras.exe + _internal/\nen su raíz, lo que matchea el layout PyInstaller 6+ que el robocopy del .bat espera.\nHighlights:\n• GHA compila el .exe en windows-latest con PyInstaller==6.19.0 pineado.\n• ZIP del release contiene el binario y todos los assets en _internal/.\n• Robocopy en modo /MIR (mirror exacto, limpia huérfanos de updates rotos previos).\n• Endpoint legacy /api/verificar-update eliminado.\n• Frontend con backoff de polling, default seguro en switch, manejo de errores de red.\n• Botón Actualizar ahora con feedback inmediato y guard contra doble click.\n• 51 tests E2E del flujo de update (antes: 0).\nPara los 2 usuarios en v2.4.5: el bootstrap deberia funcionar con el .bat\nviejo (lo aplica al ZIP nuevo correctamente). Si fallara, reinstalación\nmanual con el .exe del release como fallback.\nValidado vía rc1/rc2/rc3 en GHA con todos los layouts y encodings correctos."
 }
