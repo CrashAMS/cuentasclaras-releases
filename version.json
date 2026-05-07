@@ -1,6 +1,6 @@
 {
-  "version": "2.4.6",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.6/CuentasClaras-v2.4.6.zip",
-  "sha256": "3f4aaed3a108769d28c9674d4ce0ffc800e66c4cfef00bab1759bef2764cc8cd",
-  "notas": "Mejoras en el sistema de actualizaciones autom�ticas. A partir de esta versi�n los updates se aplican correctamente."
+  "version": "2.4.7",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.7/CuentasClaras-v2.4.7.zip",
+  "sha256": "b260dbcad2910a088138e0e8edd4ca7c930eaba5d5bfe87e30706925f27f7f99",
+  "notas": "v2.4.7 — Mesas y nuevo panel de margen\nNovedades\n* Gestión de mesas: ahora podés abrir mesas, agregarles productos a lo\n  largo del servicio y cobrarlas con descuento o múltiples métodos de\n  pago. Si una mesa queda sin cobrar, la podés cancelar y el stock\n  vuelve a su lugar automáticamente.\n* Consumo interno: nuevo botón para registrar lo que consume tu equipo\n  (o vos mismo) sin que afecte tus ventas. El stock se descuenta\n  normalmente.\n* Tab Análisis renovada: el panel de Margen ahora muestra cuánto ganaste\n  en el período, te marca cuáles son tus productos clave y cuáles podrían\n  ser un problema, y te sugiere precios para mejorar márgenes bajos.\n  Desde el mismo panel se abre una tabla detallada con todos tus\n  productos clasificados.\n* Mejoras en el cálculo de margen: el número refleja mejor la realidad\n  de tu negocio (toma en cuenta cuánto se vendió de cada producto en\n  vez de un promedio simple)."
 }
