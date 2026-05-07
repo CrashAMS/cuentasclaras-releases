@@ -1,6 +1,6 @@
 {
-  "version": "2.4.7",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.7/CuentasClaras-v2.4.7.zip",
-  "sha256": "b260dbcad2910a088138e0e8edd4ca7c930eaba5d5bfe87e30706925f27f7f99",
-  "notas": "v2.4.7 — Mesas y nuevo panel de margen\nNovedades\n* Gestión de mesas: ahora podés abrir mesas, agregarles productos a lo\n  largo del servicio y cobrarlas con descuento o múltiples métodos de\n  pago. Si una mesa queda sin cobrar, la podés cancelar y el stock\n  vuelve a su lugar automáticamente.\n* Consumo interno: nuevo botón para registrar lo que consume tu equipo\n  (o vos mismo) sin que afecte tus ventas. El stock se descuenta\n  normalmente.\n* Tab Análisis renovada: el panel de Margen ahora muestra cuánto ganaste\n  en el período, te marca cuáles son tus productos clave y cuáles podrían\n  ser un problema, y te sugiere precios para mejorar márgenes bajos.\n  Desde el mismo panel se abre una tabla detallada con todos tus\n  productos clasificados.\n* Mejoras en el cálculo de margen: el número refleja mejor la realidad\n  de tu negocio (toma en cuenta cuánto se vendió de cada producto en\n  vez de un promedio simple)."
+  "version": "2.4.8",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.4.8/CuentasClaras-v2.4.8.zip",
+  "sha256": "da06358ab8d7f793a0d77bad6640c760b06da9531341a805c51b28b5ed3610e0",
+  "notas": "CuentasClaras v2.4.8 — Mejoras de robustez del sistema de actualización\nSi tuviste actualizaciones que se quedaban colgadas, fallaban silenciosamente\no dejaban la app sin abrir, esta versión las arregla.\nCambios visibles:\n- Detección más precisa del proceso durante la actualización\n- Recuperación automática cuando una actualización falla a mitad de camino\n- Mejor tolerancia al antivirus o sync de OneDrive escaneando archivos\n- Espera a que la app esté lista antes de abrir el navegador\n- Si el instalador se pierde durante el reinicio, la app sigue funcionando\nNota: si estás en una versión anterior y tuviste problemas para actualizar,\npuede ser necesario instalar v2.4.8 manualmente una vez. Los próximos updates\nya van a funcionar automáticamente."
 }
