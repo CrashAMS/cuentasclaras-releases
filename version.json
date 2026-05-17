@@ -1,6 +1,6 @@
 {
   "version": "2.5.0",
   "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.0/CuentasClaras-v2.5.0.zip",
-  "sha256": "baa064efcce4f5e58ddd34026cd25306ce757d202c629b3a9f824cd4d07f2a41",
+  "sha256": "d81ea38aed174397d348a9a110f362c90e302847ae2c7c265405f17f8c1b969a",
   "notas": "v2.5.0 — Rediseño tarjeta \"Cuándo\" + actualizaciones más confiables\n- Rediseño de la tarjeta \"Cuándo\" en Análisis: el heatmap ahora muestra solo cuándo vendés (sin letras encima) y al tocarlo se abre el análisis detallado por franja (Mañana / Mediodía / Tarde / Noche).\n- Nueva vista \"Qué se vende\": de un vistazo ves qué producto domina cada momento del día.\n- Nueva vista \"Qué te deja\": doble barra que compara volumen vs margen, con notas que te avisan si tu producto estrella también es el que más te deja (o si lo estás regalando).\n- Estado intermedio mejorado: con menos de 50 tickets ahora ves una barra de progreso \"X/50\" en lugar de tabs deshabilitados sin explicación.\n- Productos sin costo cargado aparecen marcados con ⚠ — recordatorio visual para cargar costos y ver el margen real.\n- Sistema de actualizaciones más confiable: corregidos cuelgues del proceso post-Reiniciar que podían dejar la app cerrada sin terminar de aplicar la versión nueva. Si una actualización falla, la app vieja se relanza sola."
 }
