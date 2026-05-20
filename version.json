@@ -1,6 +1,6 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.0/CuentasClaras-v2.5.0.zip",
-  "sha256": "d81ea38aed174397d348a9a110f362c90e302847ae2c7c265405f17f8c1b969a",
-  "notas": "v2.5.0 — Rediseño tarjeta \"Cuándo\" + actualizaciones más confiables\n- Rediseño de la tarjeta \"Cuándo\" en Análisis: el heatmap ahora muestra solo cuándo vendés (sin letras encima) y al tocarlo se abre el análisis detallado por franja (Mañana / Mediodía / Tarde / Noche).\n- Nueva vista \"Qué se vende\": de un vistazo ves qué producto domina cada momento del día.\n- Nueva vista \"Qué te deja\": doble barra que compara volumen vs margen, con notas que te avisan si tu producto estrella también es el que más te deja (o si lo estás regalando).\n- Estado intermedio mejorado: con menos de 50 tickets ahora ves una barra de progreso \"X/50\" en lugar de tabs deshabilitados sin explicación.\n- Productos sin costo cargado aparecen marcados con ⚠ — recordatorio visual para cargar costos y ver el margen real.\n- Sistema de actualizaciones más confiable: corregidos cuelgues del proceso post-Reiniciar que podían dejar la app cerrada sin terminar de aplicar la versión nueva. Si una actualización falla, la app vieja se relanza sola."
+  "version": "2.5.1",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.1/CuentasClaras-v2.5.1.zip",
+  "sha256": "4a9294dd297f1f7c0d870c672b270aac821e939d1394154741273c4286633c87",
+  "notas": "v2.5.1 — Combos que descuentan stock + márgenes correctos\n* Los combos ahora descuentan stock automáticamente al venderlos (descuenta los insumos de cada componente según su receta).\n* Modal nuevo para armar combos: buscador, chips de seleccionados y stepper de cantidad.\n* La tabla de márgenes ahora muestra el costo real de los combos (suma del costo de cada componente).\n* Avisos visuales cuando un componente del combo no tiene receta cargada."
 }
