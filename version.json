@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.1/CuentasClaras-v2.5.1.zip",
-  "sha256": "4a9294dd297f1f7c0d870c672b270aac821e939d1394154741273c4286633c87",
-  "notas": "v2.5.1 — Combos que descuentan stock + márgenes correctos\n* Los combos ahora descuentan stock automáticamente al venderlos (descuenta los insumos de cada componente según su receta).\n* Modal nuevo para armar combos: buscador, chips de seleccionados y stepper de cantidad.\n* La tabla de márgenes ahora muestra el costo real de los combos (suma del costo de cada componente).\n* Avisos visuales cuando un componente del combo no tiene receta cargada."
+  "version": "2.5.2",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.2/CuentasClaras-v2.5.2.zip",
+  "sha256": "5c143123bf5f07f876148df3592de99fcf14bce2e98042215f99e488b108c349",
+  "notas": "v2.5.2 — Fixes de catálogo y carga\n* Volvió a funcionar la edición y eliminación de productos del catálogo (antes mostraba \"ID no es UUID válido\").\n* La planilla Excel de insumos vuelve a registrar las filas (antes daba OK pero quedaba vacía).\n* Ahora podés marcar como regalado un producto de proveedor poniendo precio $0 — el costo se refleja en el análisis de margen."
 }
