@@ -1,6 +1,6 @@
 {
-  "version": "2.5.2",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.2/CuentasClaras-v2.5.2.zip",
-  "sha256": "5c143123bf5f07f876148df3592de99fcf14bce2e98042215f99e488b108c349",
-  "notas": "v2.5.2 — Fixes de catálogo y carga\n* Volvió a funcionar la edición y eliminación de productos del catálogo (antes mostraba \"ID no es UUID válido\").\n* La planilla Excel de insumos vuelve a registrar las filas (antes daba OK pero quedaba vacía).\n* Ahora podés marcar como regalado un producto de proveedor poniendo precio $0 — el costo se refleja en el análisis de margen."
+  "version": "2.5.2.5",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.2.5/CuentasClaras-v2.5.2.5.zip",
+  "sha256": "1288af2446ec0ab9f509b0779ad1bd0d6a27effa0c2d5a2b3d4acf53b419cf5a",
+  "notas": "v2.5.2.5 — Sincronización completa de proveedores y stock\n* Si reinstalás la app o cambiás de PC, ahora tus proveedores, sus productos, los movimientos de stock y los ajustes de inventario se recuperan completos al loguearte. Antes podías perder esa información.\n* Editar un proveedor sin tocar los productos ya no los borra silenciosamente. Si querés vaciar la lista, ahora la app te pide confirmación.\n* Cuando un proveedor no tiene productos asociados, la tabla muestra 'Sin productos vinculados' en lugar del engañoso '$0/unidad'.\n* Si subís un Excel con dos filas del mismo proveedor + insumo pero precios distintos, ahora ves un aviso claro indicando cuál se conservó."
 }
