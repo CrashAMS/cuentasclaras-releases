@@ -1,6 +1,6 @@
 {
-  "version": "2.5.3",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.3/CuentasClaras-v2.5.3.zip",
-  "sha256": "cbbefc698537a29a09ee034bdb2f8222e3cada8baefd00e0c6f140e7d25a2d6c",
-  "notas": "fix(tests): test_bp_debug usa create_app() — elimina sys.path.insert que corrompía sys.modules['app']"
+  "version": "2.5.3.1",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.3.1/CuentasClaras-v2.5.3.1.zip",
+  "sha256": "e5cb365520a84d3c0b18f97af42bec3ac36f24b2553993984547f7c1f3e80a76",
+  "notas": "v2.5.3.1"
 }
