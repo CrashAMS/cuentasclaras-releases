@@ -1,6 +1,6 @@
 {
-  "version": "2.5.3.2",
-  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.3.2/CuentasClaras-v2.5.3.2.zip",
-  "sha256": "e43b543f6dec78b64892b61cc877771afe3f274fa4c5c698a5c1f1b1dfc6fd36",
-  "notas": "v2.5.3.2"
+  "version": "2.5.3.3",
+  "url": "https://github.com/CrashAMS/cuentasclaras-releases/releases/download/v2.5.3.3/CuentasClaras-v2.5.3.3.zip",
+  "sha256": "6c5a6f974b96e0697d9437e0487685cd9dee5262d0b354933755f8fb9e519066",
+  "notas": "v2.5.3.3 — Correcciones de gastos, Análisis y Stock\n* Un gasto o ingreso borrado ya no vuelve a aparecer después de sincronizar.\n* Análisis ahora abre mostrando la semana anterior completa en lugar de la semana actual.\n* En Stock, el botón \"Comprar →\" quedó alineado en todas las tarjetas y ahora abre \"Compra a proveedor\".\n* Botón de cerrar redondeado en las ventanas de Análisis."
 }
